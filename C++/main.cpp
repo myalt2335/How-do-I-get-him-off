@@ -1,4 +1,3 @@
-// overlay_window.cpp
 #include <windows.h>
 #include <gdiplus.h>
 #include <cstdio>
